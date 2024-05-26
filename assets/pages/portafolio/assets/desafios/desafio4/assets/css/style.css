@@ -1,0 +1,22 @@
+body {
+  background-color: #fff;
+}
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #707070;
+  }
+
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #212529;
+
+    justify-content: flex-end;  }
+
+ 
+.tamañoLogo {
+ max-height: 35px;
+}

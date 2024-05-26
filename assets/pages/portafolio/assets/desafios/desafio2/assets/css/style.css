@@ -1,0 +1,88 @@
+.logohead {
+    padding: 10px;
+    border: 25px solid;
+    border-color: brown;
+    border-radius: 30%;
+    max-height:500px;
+    }
+
+header,footer {
+    background-color: black;
+    border: 5px solid;
+    border-color: brown;
+    border-radius:5rem;
+}
+
+
+.fondo1 {
+       height: 65%;
+   
+  }
+table{
+    padding: 50px;
+}
+.redondeado {
+    padding: 10px;
+    border: 10px solid;
+    border-radius: 10%;
+  
+    }
+h3,h4 {
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display:flex;
+}
+
+footer {
+    display: flex; 
+    justify-content: space-between; 
+  }
+  
+  footer,p ,.footerPage {
+    flex: 1; 
+    text-align: center; 
+  }
+  .fondo2 {
+  background-image: url(../img/bluetooth.png);
+  background-repeat:no-repeat;
+  background-position: top; 
+  background-size:contain;
+
+  opacity: .3; }
+  h1{
+    color: brown;
+    font-weight: bolder;
+    font-size:xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-align: right;
+  
+}
+h2{
+    color: brown;
+    font-weight: bolder;
+    font-size:x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   text-align: left;
+   
+}
+li {
+    padding: 10px;
+    font-weight: bolder;
+    font-size:large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+    
+}
+.footerPrecio {
+    
+    color:white ;
+ 
+}
+a {
+    text-decoration: none;
+    color: brown;
+}
+a:hover {
+    color: rgb(172, 143, 143)
+  }
+  
