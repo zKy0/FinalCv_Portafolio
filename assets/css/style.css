@@ -101,3 +101,13 @@ h1 {
     font-style: normal;
   }
   
+  .pacmanUL {
+    list-style-type: none;
+   list-style-image: url(/FinalCv_Portafolio/assets/img/pacmanUL.png);
+  }
+  
+  .fantasmaUL {
+    list-style-type: none;
+   list-style-image: url(/FinalCv_Portafolio/assets/img/ghostArriba.png);
+  }
+ 
