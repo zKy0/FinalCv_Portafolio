@@ -19,6 +19,10 @@
 
 }
 
+h1 {
+    padding-top:15%;
+}
+
 .footer {
     background-image: url('/FinalCv_Portafolio/assets/img/IAfooter.jpg');
     padding: 2%;
