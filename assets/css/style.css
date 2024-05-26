@@ -111,3 +111,10 @@ h1 {
    list-style-image: url(/FinalCv_Portafolio/assets/img/ghostArriba.png);
   }
  
+  .blueGhostUL {
+    list-style-type: none;
+   list-style-image: url(/FinalCv_Portafolio/assets/img/blueGhostUL.png);
+  }
+  .contacto {
+    padding: 10%;
+  }
